@@ -1,0 +1,38 @@
+.inline-block{
+    display:inline-block;
+    vertical-align:top}
+
+.div, .logo{
+    width:23%
+    padding:1%;}
+
+nav{
+    width: 73%;
+    padding:1%}
+.ul{
+    margin-right:auto;
+     width:50%}
+.logo{
+    text-align:center}
+.hereoImg{
+    
+    height: 400px;
+    height:600px;
+    padding:25px
+}
+.footer{
+    background-color: #373738; padding: 20%; 
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-areas: "scale" "translate";
+  
+}
+.MPicture{
+    scale: 2px;
+}
+
+
+
